@@ -14,11 +14,11 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install unimatrix --edge --devmode
+    sudo snap install unimatrix --beta
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-![UniMatrix](screenshot.png?raw=true "my-snap-name")
+![UniMatrix](screenshot.png?raw=true "UniMatrix")
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
