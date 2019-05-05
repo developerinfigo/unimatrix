@@ -1,5 +1,5 @@
 <h1 align="center">
-  img src="unimatrix_logo.jpeg" alt="UniMatrix">
+  <img src="unimatrix_logo.jpeg" alt="UniMatrix" height="100px" width="100px">
   <br />
   UniMatrix
 </h1>
